@@ -1,2 +1,9 @@
-# python
-python's courses
+# Python
+
+---
+
+## Python's courses
+
+- Soifer
+
+---
